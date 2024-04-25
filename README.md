@@ -1,1 +1,1 @@
-
+This project follows a systematic approach to building a machine learning model for predicting house prices. It covers essential steps such as data retrieval, exploration, preprocessing, feature engineering, and model evaluation. By following this end-to-end process, the project aims to develop an accurate predictive model for house prices.
